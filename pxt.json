@@ -1,5 +1,6 @@
 {
     "name": "Un Video En Un Juego",
+    "version": "1.0.0",
     "description": "",
     "dependencies": {
         "device": "*",
